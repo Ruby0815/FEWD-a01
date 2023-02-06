@@ -10,9 +10,10 @@ And I'm very keen to learn **javascript** as it is new language for me
 
 There are certain things I want to do 
 * Learn we developing
-* Java sript
+* Java script
 * Coding
 * Travelling
+
 
 ### My Favourite place 
 Here are picture  of my favorite place Taj Mahal...
@@ -22,3 +23,4 @@ If you want more information about this place:
 
 Here the link [(https://en.wikipedia.org/wiki/Taj_Mahal)]
 
+Thank you!
