@@ -2,10 +2,13 @@
 FEWD assignment1
 
 ## Introduction
-Hi there *I'm Ruby Verma*!  I'm a _**webdeveloper**_ and _**programmer**_
+Hi there *I'm Ruby Verma*!  I'm a _**webdeveloper**_ and _**programmer**_.
 
 I would like to do _webdeveloping_ and  I like to do _coding_
-And I'm very keen to learn **javascript** as it is new language for me
+
+
+I'm very keen to learn **javascript** as it is new language for me but I think it is interesting.
+I have a some knoweledge of C. And I think **Javascript** is little bit similar of C.
 
 
 There are certain things I want to do 
@@ -16,8 +19,14 @@ There are certain things I want to do
 
 
 ### My Favourite place 
+
+
+There are many place where I would like to visit but I like most Tajmahal.
+
 Here are picture  of my favorite place Taj Mahal...
-![Taj Mahal](https://upload.wikimedia.org/wikipedia/commons/6/67/Taj_Mahal_in_India_-_Kristian_Bertel.jpg
+![Taj Mahal](https://upload.wikimedia.org/wikipedia/commons/b/bd/Taj_Mahal%2C_Agra%2C_India_edit3.jpg)
+
+
 If you want more information about this place:
 
 Here the [link](https://en.wikipedia.org/wiki/Taj_Mahal)
